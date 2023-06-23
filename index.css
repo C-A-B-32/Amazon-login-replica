@@ -1,0 +1,70 @@
+
+
+h1{
+    text-align: center;
+    padding-right: 155px;
+}
+
+h5{
+    padding-right: 200px;
+}
+
+p{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+#boarder {
+    width: 400px;
+    height: 300px;
+    background-color: rgb(236, 233, 233);
+    margin-left: 760px;
+
+}
+
+#BB{
+    padding-top: 200px;
+    border-bottom: solid black;
+}
+
+#email{
+    margin-bottom: 15px;
+    padding-left: 85px;
+    padding-bottom: 8px;
+}
+
+a{
+    margin-left: 30px;
+}
+
+#password{
+    padding-left: 85px;
+    padding-bottom: 8px;
+}
+
+#continue{
+    background-color: rgb(255, 166, 0);
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 20px
+}
+
+#create{
+    margin-left: 826px;
+    margin-bottom: 25px;
+    background-color: rgb(182, 180, 180);
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+#CPH{
+    text-align: center;
+    margin-top: 50px;
+}
